@@ -1,0 +1,64 @@
+Phone Model 1:
+Brand: Samsung
+Model: Galaxy S22
+RAM: 8 GB
+Internal Storage: 128 GB
+External Storage: 1 TB
+Number of SIMs: 2
+Battery Capacity: 5000 mAh
+Processor: Qualcomm Snapdragon 888
+Main Camera Resolution: 50 MP
+Year of Introduction: 2022
+Colors: Black, White, Pink
+
+Phone Model 2:
+Brand: Apple
+Model: iPhone 14 Pro
+RAM: 12 GB
+Internal Storage: 256 GB
+External Storage: None
+Number of SIMs: 1
+Battery Capacity: 4000 mAh
+Processor: Apple A16 Bionic
+Main Camera Resolution: 48 MP
+Year of Introduction: 2022
+Colors: Space Gray, Gold, Silver
+
+Phone Model 3:
+Brand: OnePlus
+Model: OnePlus 10 Pro
+RAM: 12 GB
+Internal Storage: 256 GB
+External Storage: 1 TB
+Number of SIMs: 2
+Battery Capacity: 5000 mAh
+Processor: Qualcomm Snapdragon 888
+Main Camera Resolution: 50 MP
+Year of Introduction: 2022
+Colors: Blue, Green, Purple
+
+Phone Model 4:
+Brand: Google
+Model: Pixel 6 Pro
+RAM: 12 GB
+Internal Storage: 256 GB
+External Storage: None
+Number of SIMs: 1
+Battery Capacity: 5120 mAh
+Processor: Google Tensor G2
+Main Camera Resolution: 50 MP
+Year of Introduction: 2022
+Colors: Black, White, Indigo
+
+Phone Model 5:
+Brand: Huawei
+Model: P30 Pro
+RAM: 8 GB
+Internal Storage: 128 GB
+External Storage: None
+Number of SIMs: 2
+Battery Capacity: 4200 mAh
+Processor: HiSilicon Kirin 980
+Main Camera Resolution: 40 MP
+Year of Introduction: 2019
+Colors: Black, Blue, Gold
